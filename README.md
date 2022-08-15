@@ -1,5 +1,5 @@
 ## OHLC Engine  
-Analytical Server "OHLC" (Open/High/Low/Close) time series based on the ‘Stock List’ dataset.  This app was build as per the requirement of the hackathon organized by Northern Trust Company.  
+Analytical Server "OHLC" (Open/High/Low/Close) time series based on the ‘Stock List’ dataset.  This app was build as per the requirement of the hackathon organized by Northern Trust Company. The given JSON data was parsed into dataframe for further processing.
 ## Tech/Framework used  
 * Language - Python
 * Frameworks/Libraries - pandas, plotly
